@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="webapp-ear-ejb">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../webapp-ear-ejb/target/webapp-ear-ejb.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
